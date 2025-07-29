@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 ¡Hola! Soy Rodrigo Quintana
 
-<!--
-**rodryl/rodryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Creador de **La Cajita Azul** y **La Cajita Roja** 
+📦 Wiki práctica y estratégica de herramientas de ciberseguridad defensiva y ofensiva
 
-Here are some ideas to get you started:
+## 🔍 Mis proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📘 [La Cajita Azul](https://github.com/rodryl/La-Cajita-Azul) – Guías defensivas y herramientas Blue Team
+- 🔴 [La Cajita Roja](https://github.com/rodryl/La-Cajita-Roja) – Herramientas ofensivas y pentesting ético
+
+## 🧠 Intereses
+
+Ciberseguridad defensiva
+
+## 📫 Contacto
+
+- LinkedIn: 
